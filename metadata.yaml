@@ -1,0 +1,30 @@
+_repo: Diphtheriait-how-to-treat-those-who-do-catch-it_36006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Public Health Service
+    aliases:
+    - U.S. Public Health Service
+    - United States. Public Health Services
+    - United States. Department of Public Health
+    gutenberg_agent_id: '32334'
+    url: http://www.gutenberg.org/2009/agents/32334
+description: ''
+gutenberg_issued: '2011-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Diphtheria -- Prevention'
+- !lcsh 'Diphtheria'
+title: "Diphtheria\r\nhow to recognize the disease, how to keep from catching it,\
+  \ how to treat those who do catch it"
+url: http://www.gutenberg.org/ebooks/36006
