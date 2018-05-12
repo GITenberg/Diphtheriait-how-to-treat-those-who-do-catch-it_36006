@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32334'
     url: http://www.gutenberg.org/2009/agents/32334
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36006#Diphtheriait-how-to-treat-those-who-do-catch-it
 gutenberg_issued: '2011-05-01'
 gutenberg_type: Text
 identifiers:
